@@ -1,6 +1,6 @@
 # portfolio
 <<<<<<< HEAD
 
-[View Demo](https://github.com/joannayee/portfolio)
+[View Demo](https://joannayee.github.io/portfolio/)
 =======
 
