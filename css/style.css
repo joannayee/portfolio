@@ -125,16 +125,16 @@ img {
   }
   
   /* SITE NAV */
-  .site-navigation ul {
+  .site-nav ul {
     padding: 0;
     margin: 1em 1.5em 0 0;
   }
   
-  .site-navigation ul li {
+  .site-nav ul li {
     display: inline-block;
   }
   
-  .site-navigation ul li a {
+  .site-nav ul li a {
     display: block;
     padding: 1em 0.5em;
     margin: 0 .2em;
@@ -145,12 +145,12 @@ img {
     transition: .2s ease-out all;
   }
   
-  .site-navigation ul li a:hover {
+  .site-nav ul li a:hover {
     border-bottom: 2px solid rgba(0, 0, 0, 0.2);
     color: rgba(0, 0, 0, 1);
   }
   
-  .site-navigation ul li a.selected {
+  .site-nav ul li a.selected {
     border-bottom: 2px solid rgba(0, 0, 0, 0.5);
   }
 
